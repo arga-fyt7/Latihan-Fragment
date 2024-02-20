@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Latihan Fragment</string>
+    <string name="home">Home</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="search">Search</string>
+    <string name="search_fragment">Search Fragment</string>
+    <string name="notif">Notification</string>
+    <string name="notif_fragment">Notification_fragment</string>
+    <string name="account">Account</string>
+    <string name="account_fragment">Account Fragment</string>
+</resources>
